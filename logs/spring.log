@@ -1,0 +1,69 @@
+2018-11-28 17:18:12.508  INFO 4352 --- [main] i.a.s.SpringBootConfigStarterApplication : Starting SpringBootConfigStarterApplication on SC-201811161136 with PID 4352 (D:\jsw\study\projects\spring-boot-config-starter\target\classes started by Administrator in D:\jsw\study\projects\spring-boot-config-starter)
+2018-11-28 17:18:12.510  INFO 4352 --- [main] i.a.s.SpringBootConfigStarterApplication : The following profiles are active: prod,proddb
+2018-11-28 17:18:13.584  INFO 4352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-11-28 17:18:13.600  INFO 4352 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-11-28 17:18:13.601  INFO 4352 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-28 17:18:13.606  INFO 4352 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\jsw\study\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Bandizip\;C:\Program Files\Docker Toolbox;.]
+2018-11-28 17:18:13.695  INFO 4352 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-11-28 17:18:13.696  INFO 4352 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1151 ms
+2018-11-28 17:18:13.717  INFO 4352 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-11-28 17:18:13.720  INFO 4352 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-28 17:18:13.720  INFO 4352 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-28 17:18:13.720  INFO 4352 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2018-11-28 17:18:13.720  INFO 4352 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-28 17:18:13.970  INFO 4352 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-28 17:18:14.102  INFO 4352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-11-28 17:18:14.105  INFO 4352 --- [main] i.a.s.SpringBootConfigStarterApplication : Started SpringBootConfigStarterApplication in 1.907 seconds (JVM running for 2.566)
+2018-11-28 17:19:55.173  INFO 2060 --- [main] i.a.s.SpringBootConfigStarterApplication : Starting SpringBootConfigStarterApplication on SC-201811161136 with PID 2060 (D:\jsw\study\projects\spring-boot-config-starter\target\classes started by Administrator in D:\jsw\study\projects\spring-boot-config-starter)
+2018-11-28 17:19:55.175 DEBUG 2060 --- [main] i.a.s.SpringBootConfigStarterApplication : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-28 17:19:55.176  INFO 2060 --- [main] i.a.s.SpringBootConfigStarterApplication : The following profiles are active: prod,proddb
+2018-11-28 17:19:56.040  INFO 2060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-11-28 17:19:56.054  INFO 2060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-11-28 17:19:56.055  INFO 2060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-28 17:19:56.060  INFO 2060 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\jsw\study\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Bandizip\;C:\Program Files\Docker Toolbox;.]
+2018-11-28 17:19:56.142  INFO 2060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-11-28 17:19:56.142  INFO 2060 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 902 ms
+2018-11-28 17:19:56.160  INFO 2060 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-11-28 17:19:56.163  INFO 2060 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-28 17:19:56.163  INFO 2060 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-28 17:19:56.163  INFO 2060 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2018-11-28 17:19:56.163  INFO 2060 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-28 17:19:56.414  INFO 2060 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-28 17:19:56.546  INFO 2060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-11-28 17:19:56.548  INFO 2060 --- [main] i.a.s.SpringBootConfigStarterApplication : Started SpringBootConfigStarterApplication in 1.845 seconds (JVM running for 2.428)
+2018-11-28 17:22:10.928  INFO 3920 --- [main] i.a.s.SpringBootConfigStarterApplication : Starting SpringBootConfigStarterApplication on SC-201811161136 with PID 3920 (D:\jsw\study\projects\spring-boot-config-starter\target\classes started by Administrator in D:\jsw\study\projects\spring-boot-config-starter)
+2018-11-28 17:22:10.931 DEBUG 3920 --- [main] i.a.s.SpringBootConfigStarterApplication : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-28 17:22:10.932  INFO 3920 --- [main] i.a.s.SpringBootConfigStarterApplication : The following profiles are active: prod,proddb
+2018-11-28 17:22:11.985  INFO 3920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-11-28 17:22:12.000  INFO 3920 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-11-28 17:22:12.001  INFO 3920 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-28 17:22:12.007  INFO 3920 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\jsw\study\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Bandizip\;C:\Program Files\Docker Toolbox;.]
+2018-11-28 17:22:12.092  INFO 3920 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-11-28 17:22:12.092  INFO 3920 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1128 ms
+2018-11-28 17:22:12.109  INFO 3920 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-11-28 17:22:12.112  INFO 3920 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-28 17:22:12.112  INFO 3920 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-28 17:22:12.112  INFO 3920 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2018-11-28 17:22:12.112  INFO 3920 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-28 17:22:12.356  INFO 3920 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-28 17:22:12.487  INFO 3920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-11-28 17:22:12.490  INFO 3920 --- [main] i.a.s.SpringBootConfigStarterApplication : Started SpringBootConfigStarterApplication in 1.897 seconds (JVM running for 2.576)
+2018-11-28 17:22:12.491 DEBUG 3920 --- [main] i.a.springbootconfigstarter.BaseRunner   : hello
+2018-11-28 17:58:06.522  INFO 5476 --- [main] i.a.s.SpringBootConfigStarterApplication : Starting SpringBootConfigStarterApplication on SC-201811161136 with PID 5476 (D:\jsw\study\projects\spring-boot-config-starter\target\classes started by Administrator in D:\jsw\study\projects\spring-boot-config-starter)
+2018-11-28 17:58:06.543 DEBUG 5476 --- [main] i.a.s.SpringBootConfigStarterApplication : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2018-11-28 17:58:06.544  INFO 5476 --- [main] i.a.s.SpringBootConfigStarterApplication : The following profiles are active: prod,proddb
+2018-11-28 17:58:07.357  INFO 5476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-11-28 17:58:07.372  INFO 5476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-11-28 17:58:07.372  INFO 5476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2018-11-28 17:58:07.378  INFO 5476 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_191\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\jsw\study\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\Bandizip\;C:\Program Files\Docker Toolbox;.]
+2018-11-28 17:58:07.455  INFO 5476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-11-28 17:58:07.455  INFO 5476 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 881 ms
+2018-11-28 17:58:07.473  INFO 5476 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-11-28 17:58:07.475  INFO 5476 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-28 17:58:07.476  INFO 5476 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-28 17:58:07.476  INFO 5476 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2018-11-28 17:58:07.476  INFO 5476 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-28 17:58:07.713  INFO 5476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-28 17:58:07.839  INFO 5476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-11-28 17:58:07.842  INFO 5476 --- [main] i.a.s.SpringBootConfigStarterApplication : Started SpringBootConfigStarterApplication in 1.818 seconds (JVM running for 2.367)
+2018-11-28 17:58:07.843 DEBUG 5476 --- [main] i.a.springbootconfigstarter.BaseRunner   : hello
